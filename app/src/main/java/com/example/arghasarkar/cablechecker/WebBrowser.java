@@ -10,7 +10,7 @@ public class WebBrowser extends AppCompatActivity {
     private String appVersion = "1.1";
     // Version of Android OS running on the phone.
     private String androidVersion = android.os.Build.VERSION.SDK_INT + "";
-    
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

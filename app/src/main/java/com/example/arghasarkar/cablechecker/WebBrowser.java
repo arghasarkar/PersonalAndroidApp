@@ -18,7 +18,7 @@ public class WebBrowser extends AppCompatActivity {
 
         // Initialising the web view
         WebView browser = (WebView) findViewById(R.id.webView);
-        browser.loadUrl("http://arghasarkar.co.uk/?&r=androidv_" + androidVersion + "-appv_" + appVersion);
+        browser.loadUrl("http://arghasarkar.co.uk/?&r=androidv_" + androidVersion + "-appv_" + appVersion + "a");
 
     }
 }
